@@ -1,4 +1,4 @@
-# Cricket_Players_Database
+# Cricket Players Management Application using SpringBoot
 Using Java
   This is the application whihc allows you to add the players with their details, edit them and also delete them at your convenience which is developed using SpringBoot framework.
 
